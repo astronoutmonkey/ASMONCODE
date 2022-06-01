@@ -1,4 +1,4 @@
-# ASMON CODE
+# source code Astronaut Monkey Project
 smart contract code Astronaut Monkey
 // SPDX-License-Identifier: Unlicensed
 
